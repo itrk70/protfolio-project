@@ -1,1 +1,1 @@
-# protfolio-project
+# protfolio-project (Workshop)
